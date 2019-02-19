@@ -8,6 +8,7 @@ b. Perulangan while
 Perulangan while disebut uncounted loop (perulangan yang tak terhitung), yaitu perulangan yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.
 
 HASIL OUTPUT NYA ..........
+
 ![4](https://user-images.githubusercontent.com/47094247/52993466-e1abd280-3446-11e9-8134-1eb9243c89b2.JPG)
 
 2. Alur algoritma program "latihan2.py"
@@ -18,6 +19,11 @@ Perulangan while disebut uncounted loop (perulangan yang tak terhitung), yaitu p
 Pernyataan break dan continue Pernyataan break digunakan untuk menghentikan proses perulangan pada kondisi tertentu, sedangkan pernyataan continue digunakan untuk melanjutkan pada iterasi selanjutnya pada kondisi tertentu.
 
 HASIL OUTPUTNYA ........
+
+![9](https://user-images.githubusercontent.com/47094247/52994026-ca6de480-3448-11e9-8b46-934e46621c55.JPG)
+
+3. Alur Algoritma program "program1.py"
+
 
 
 
