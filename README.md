@@ -6,6 +6,9 @@ a. Perulangan for
 Perulangan for disebut juga sebagai counted loop (perulangan yang terhitung), yaitu perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu.
 b. Perulangan while
 Perulangan while disebut uncounted loop (perulangan yang tak terhitung), yaitu perulangan yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.
+
 HASIL OUTPUT NYA >>>>>>>>>>
+![4](https://user-images.githubusercontent.com/47094247/52993466-e1abd280-3446-11e9-8134-1eb9243c89b2.JPG)
+
 
 
