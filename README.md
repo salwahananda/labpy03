@@ -31,8 +31,7 @@ Seperti halnya bahasa pemrograman yang lain, bahasa python juga mempunyai percab
 
 HASIL OUTPUTNYA .......
 
-
-
+![8](https://user-images.githubusercontent.com/47094247/52994320-c0001a80-3449-11e9-962d-bb580f5c8ef7.JPG)
 
 
 
