@@ -23,6 +23,15 @@ HASIL OUTPUTNYA ........
 ![9](https://user-images.githubusercontent.com/47094247/52994026-ca6de480-3448-11e9-8b46-934e46621c55.JPG)
 
 3. Alur Algoritma program "program1.py"
+![3](https://user-images.githubusercontent.com/47094247/52994157-41a37880-3449-11e9-8b10-f4880a66f1eb.png)
+ - Perulangan for
+Perulangan for disebut juga sebagai counted loop (perulangan yang terhitung), yaitu perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu.
+ a. Menggunakan kondisional if
+Seperti halnya bahasa pemrograman yang lain, bahasa python juga mempunyai percabangan berupa if yaitu bila suatu kondisi tertentu tercapa maka apa yang harus dilakukan. Dengan fungsi ini kita bisa menjalankan suatu perintah dalam kondisi tertentu.
+
+HASIL OUTPUTNYA .......
+
+
 
 
 
